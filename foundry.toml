@@ -6,5 +6,8 @@ remappings = [
     '@thirdweb-dev/=node_modules/@thirdweb-dev/',
 ]
 
+[net]
+git-fetch-with-cli = true
+
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
