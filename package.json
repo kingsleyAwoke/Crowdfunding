@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "@thirdweb-dev/contracts": "^3",
-    "thirdweb": "^5.85.0"
+    "thirdweb": "^5.93.4"
   },
   "scripts": {
     "build": "npx thirdweb@latest detect",
